@@ -1,4 +1,4 @@
-# Hey, I'm Juanda 👋
+# Hey, I'm Juanda 🤓
 
 Full-stack developer based in Spain with a passion for building web applications that actually work. I specialize in the **MERN stack** (MongoDB, Express, React, Node.js) and I'm obsessed with clean code, performance, and solving real problems.
 
