@@ -1,22 +1,40 @@
+<div align="center">
+
 # Hey, I'm Juanda 🤓
 
-Full-stack developer based in Spain with a passion for building web applications that actually work. I specialize in the **MERN stack** (MongoDB, Express, React, Node.js) and I'm obsessed with clean code, performance, and solving real problems.
+Full-stack developer specialized in turning ideas into real projects. I specialize in the **MERN/MEAN stack** (MongoDB, Express, React, Angular, Node.js) and I'm obsessed with clean code, performance, and solving problems.
+
+</div>
 
 ## What I do
 
-I build **scalable web applications** from zero to production. My experience includes:
+I build **scalable web applications** from zero to production. Over the last two years, I've been learning by iterating and improving a little bit every day, and I love it.
 
-- **Frontend**: React, TypeScript, modern UI/UX with responsive design
-- **Backend**: Node.js, Express, REST APIs, authentication systems
-- **Database**: MongoDB, Firebase Firestore
-- **DevOps & Infrastructure**: Docker, Google Cloud Run, deployment pipelines
-- **Additional skills**: PHP, Angular, Firebase authentication, payment integrations, process automation
+**Frontend focus:**
+- React, TypeScript, and modern development practices
+- Style guides, design systems, and component architecture
+- Git & GitHub workflows, CI/CD pipelines
+- Clean code principles and agile methodologies
+- Strong communicator. I believe great code means nothing without good communication
 
-I've spent over two years at a startup handling everything from API integrations to payment gateways, authentication flows, and security implementations. I love automating processes and making things more efficient.
+**Backend focus:**
+- Node.js & Express with clean, scalable architecture
+- Building secure systems that actually stand the test of time
+- REST APIs, authentication flows, payment gateways
+- MongoDB, Firebase Firestore
+- Process automation and system optimization
+
+**Infrastructure & DevOps:**
+- Docker containerization, Google Cloud Run deployments
+- CI/CD pipeline setup and optimization
+
+I'm proactive about learning. Every day I look for ways to write better code, improve our processes, and solve problems more elegantly.
 
 ## What drives me
 
-I'm constantly learning and experimenting with new technologies. Currently diving deeper into **TypeScript**, **Docker**, and modern development patterns. I also mentor junior developers and enjoy collaborating on projects that push me out of my comfort zone.
+I'm obsessed with continuous improvement. I think about architecture, scalability, security, and how teams can work better together. Every project is an opportunity to learn something new and apply it the next day.
+
+I had the pleasure of mentoring junior developers. I genuinely think teaching reinforces my own knowledge and I love seeing others grow. I do enjoy complex problems and the collaborative process of solving them.
 
 ## Some things I've built
 
